@@ -6,7 +6,7 @@ body {
 	font-family: Roboto;
 	font-weight: 700;
 	list-style-type: none;
-	font-size: 20px;
+	font-size: 1em;
 }
 
 ul {
@@ -23,7 +23,7 @@ ul li {
 
 ul li a {
 	text-align: center;
-	padding: 14px 16px;
+	padding: 1em;
 	display: block;	
 	text-decoration: none;
 	color: #f3f6f4;
@@ -51,16 +51,14 @@ li p a {
 	background-color: #e56eff;
 	border-radius: 10px;
 	border: 2px solid #000;
-	margin: 20px;
-	float: center;
+	margin: 0.5em;
 	text-align: left;
-	padding: 5px 15px 5px 15px;
+	padding: 0.5em;
 	width: 58%;
-	color: #5b5b5b;
+	color: #1d070a;
 }
 
 #main-body {
-	margin-left: 20px;
 	border: 2px black;
 	border-radius: 5px;
 }
@@ -69,7 +67,7 @@ li p a {
 	background-color: #a7acb6;
 	float: right;
 	width: 20%;
-	margin-right: 20px;
+	margin-right: 0.5em;
 	border-radius: 10px;
 	text-align: center;
 	margin-top: 3%;
@@ -77,8 +75,9 @@ li p a {
 }
 
 #about {
-	margin-left: 20px;
+	margin-left: 0.5em;
 }
+
 #blog {
 	width: 60%;
 }
